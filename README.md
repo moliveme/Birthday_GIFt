@@ -2,4 +2,4 @@
 
 ## Deployed At
 
-<a href="https://itsyourbirthdayyay.netlify.app">This will take you where you need to be *wink*</a>
+[This will take you where you need to be *wink*](https://hithasday.netlify.app)
